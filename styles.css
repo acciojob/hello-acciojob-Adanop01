@@ -8,5 +8,5 @@ p.hello-accio-job{
 main.Accio#job{
 	width : 150px;
 	height : 150px;
-	background: black;
+	background-color: black;
 }
